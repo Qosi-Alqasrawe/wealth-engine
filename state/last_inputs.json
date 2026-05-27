@@ -1,0 +1,11 @@
+{
+  "ticker": "ASTS",
+  "start_date": "2025-04-01",
+  "end_date": "2026-05-11",
+  "investment_amount": 100.0,
+  "timeframe": "4h",
+  "trials": 3000,
+  "jobs": 8,
+  "min_trades": 12,
+  "updated_at": "2026-05-16T19:58:12"
+}

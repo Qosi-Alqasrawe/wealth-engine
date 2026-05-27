@@ -10,16 +10,8 @@ venv/
 .vscode/
 .idea/
 
-# Wealth Engine outputs
-results/
-reports/
-packages/
-state/
-
 # Large/generated files
 *.xlsx
 *.zip
 *.log
 
-# Optional: keep plans local unless you intentionally want to share them
-plans/
